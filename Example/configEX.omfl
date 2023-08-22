@@ -1,0 +1,8 @@
+# OMFL example
+cityC = 4
+city = ["Novovoronezh","Saint Petersburg","Moscow","Voronezh"]
+frequency = 10
+countD = 8
+
+
+
